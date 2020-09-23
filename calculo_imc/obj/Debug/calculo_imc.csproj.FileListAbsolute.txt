@@ -1,0 +1,20 @@
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe.config
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\bin\Debug\calculo_imc.pdb
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\obj\Debug\calculo_imc.frmimc.resources
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\obj\Debug\calculo_imc.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\obj\Debug\calculo_imc.exe
+C:\Users\Sydney\Documents\programaçao\calculo_imc\calculo_imc\obj\Debug\calculo_imc.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe.config
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\bin\Debug\calculo_imc.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\bin\Debug\calculo_imc.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\obj\Debug\calculo_imc.frmimc.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\obj\Debug\calculo_imc.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\obj\Debug\calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\obj\Debug\calculo_imc.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\calculo_imc\calculo_imc\obj\Debug\calculo_imc.pdb
